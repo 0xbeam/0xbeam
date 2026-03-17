@@ -18,7 +18,7 @@
 ## Current Projects
 
 - 🖥️ **[infinite-monitor](https://github.com/0xbeam/infinite-monitor)** — AI-powered dashboard builder. Describe widgets in plain English, get live React components on an infinite canvas.
-- 🎨 **[gravity](https://github.com/0xbeam/gravity)** — Studio intelligence platform. Real-time Figma sync, designer velocity tracking, live gallery with search.
+- 💎 **[superfigma](https://github.com/0xbeam/superfigma)** — Design intelligence platform. Real-time Figma sync, designer velocity tracking, session reconstruction, live gallery.
 - 🎨 **[leonardo](https://github.com/0xbeam/leonardo)** — Universal design system. Taste-driven, agentic-first tokens for color, typography, spacing, motion.
 - 🚀 **[fermi](https://github.com/0xbeam/fermi)** — Project operations dashboard. Real-time visibility into projects, teams, capacity, timelines, and risk.
 - 🌌 **[andromeda](https://github.com/0xbeam/andromeda)** — Personal CRM. Track people, intros, and relationship context across deals.
@@ -27,7 +27,6 @@
 - 🧠 **[brane](https://github.com/0xbeam/brane)** — Agentic scraping engine. Multi-source feedback aggregation — Slack, Twitter, Figma → structured agent instructions.
 - ⚛️ **[quarks](https://github.com/0xbeam/quarks)** — Slack threads → structured instruction markdown for AI agents.
 - 🌀 **[orbit](https://github.com/0xbeam/orbit)** — TypeScript application framework.
-- 💎 **[superfigma](https://github.com/0xbeam/superfigma)** — Design intelligence platform.
 
 ### Sanctuary Parc
 
